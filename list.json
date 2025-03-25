@@ -22156,7 +22156,7 @@
       ],
       "maintainer": " https://github.com/portainer/templates/"
     },
-{
+    {
       "id": 552,
       "categories": [
         "Codeserver"
@@ -22186,7 +22186,7 @@
           "name": "SUDO_PASSWORD"
         }
       ],
-      "image": "linuxserver/code-server:latest",
+      "image": "natxocc/code-server-php-node:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/code-server.png",
       "name": "code-server",
       "platform": "linux",
@@ -22203,6 +22203,6 @@
         }
       ],
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
-    },
+    }
   ]
 }
