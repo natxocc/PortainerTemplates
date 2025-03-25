@@ -22174,6 +22174,7 @@
           "name": "GUID"
         },
         {
+          "default": "Europe/Madrid",
           "label": "TZ",
           "name": "TZ"
         },
